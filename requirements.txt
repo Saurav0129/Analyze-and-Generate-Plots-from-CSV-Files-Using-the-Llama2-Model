@@ -1,0 +1,6 @@
+llama_cpp
+pandas
+matplotlib
+seaborn
+langchain
+llama-2-7b-chat.ggmlv3 model
